@@ -10,7 +10,6 @@ body {
 .centered-container {
     width: 75%;
     height: 75%;
-    background-color: #e2e2e2;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -43,7 +42,6 @@ h6 {
 
 .container {
     width: 75%;
-    background-color: #e2e2e2;
     top: 0;
     bottom: 0;
     left: 0;
